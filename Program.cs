@@ -8,7 +8,8 @@ namespace LineComparisionComputation
         {
             //Console.WriteLine("Welcome to Line Comparision Computation Program.");
             //LengthComputation.CalculateLength();
-            LengthEqualityCheck.CheckEqualLength();
+            //LengthEqualityCheck.CheckEqualLength();
+            LengthComparision.ComparisionofLines();
         }
     }
 }
